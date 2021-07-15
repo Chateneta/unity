@@ -19,9 +19,19 @@ MonoBehaviour:
       m_GuidLow: 5733283238029739475
       m_GuidHigh: 3554738790585464250
     m_SerializedTextureGuid:
-      m_GuidLow: 13683140078855620972
-      m_GuidHigh: 3004027710113866841
-    m_Size: {x: 0.24, y: 0.34183976}
+      m_GuidLow: 3450912583008836364
+      m_GuidHigh: 15011279687398531064
+    m_Size: {x: 0.15, y: 0.2814913}
     m_SpecifySize: 1
-    m_Name: dadi
-    m_Texture: {fileID: 2800000, guid: c419896c4767bde45964c44c4973b029, type: 3}
+    m_Name: Card-Dadi
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4815753932057028558
+      m_GuidHigh: 9184461214141141692
+    m_SerializedTextureGuid:
+      m_GuidLow: 7823940903155928129
+      m_GuidHigh: 12877467060136972104
+    m_Size: {x: 0.15, y: 0.2814913}
+    m_SpecifySize: 1
+    m_Name: Card-Skullkid
+    m_Texture: {fileID: 0}
