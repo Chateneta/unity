@@ -1,6 +1,0 @@
-Game: Kirby and the Rainbow Curse
-Subject: King Dedede
-Copyright: Nintendo, HAL Laboratory
-Model Ripper: Random Talking Bush
-Hosting Permissions: The Models Resource
-Notes: Special thanks to ItsEasyActually for the model importing script.
