@@ -414,7 +414,7 @@ MonoBehaviour:
   - imageGuid: 8f76c5d3-b6ba-4f90-baf5-25a218f85431
     imagePrefab: {fileID: 3048033354683459623, guid: 8b8f28da1eed70147b07922e9f54de90, type: 3}
   - imageGuid: adf327ce-feaf-42d4-bc52-3c1ad0c2757f
-    imagePrefab: {fileID: 1946986041087472911, guid: 8856b8f595037ec4292be8433c4ce161, type: 3}
+    imagePrefab: {fileID: 1181073308262036188, guid: f2deb44a9d6f7ea4baf23f31c9b2a83a, type: 3}
   m_ImageLibrary: {fileID: 11400000, guid: 82d5bd31b19aee84388c63c7b7e09af0, type: 2}
 --- !u!1 &1421867091
 GameObject:
